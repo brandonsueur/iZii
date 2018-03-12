@@ -1,4 +1,4 @@
-# 🖖  iZii
+# iZii
 
 > I'm sick of writing 134 times the same function for each project.
 
